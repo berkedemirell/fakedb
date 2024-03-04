@@ -3,13 +3,13 @@
     {
       "username" : "berke",
       "email" : "berkas@sdasd.com",
-      "color" : "black",
+      "color" : "black"
     },
     {
       "username" : "berke2",
       "email": "berke23@asdas.com",
-      "color": "white",
-    },
-  ],
+      "color": "white"
+    }
+  ]
 }
   
